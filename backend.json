@@ -1,0 +1,934 @@
+{
+  "version": 1,
+  "width": 118,
+  "height": 27,
+  "duration": 44.338984,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      1.279421,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                     \r \r"
+    ],
+    [
+      0.000134,
+      "\u001b]2;kelvin@kelvin-mac: /private/tmp\u0007\u001b]1;/private/tmp\u0007"
+    ],
+    [
+      0.024859,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mtmp\u001b[00m \u001b[K"
+    ],
+    [
+      8.4e-05,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000259,
+      "\u001b[?2004h"
+    ],
+    [
+      0.950721,
+      "g"
+    ],
+    [
+      0.086978,
+      "\bgi"
+    ],
+    [
+      0.106811,
+      "t"
+    ],
+    [
+      0.304975,
+      " "
+    ],
+    [
+      0.092921,
+      "c"
+    ],
+    [
+      0.064019,
+      "l"
+    ],
+    [
+      0.168896,
+      "o"
+    ],
+    [
+      0.091663,
+      "n"
+    ],
+    [
+      0.055206,
+      "e"
+    ],
+    [
+      0.192857,
+      " "
+    ],
+    [
+      0.340649,
+      "\u001b[7mgit@github.com:tribesat/backend.git\u001b[27m"
+    ],
+    [
+      0.6437,
+      "\u001b[35D\u001b[27mg\u001b[27mi\u001b[27mt\u001b[27m@\u001b[27mg\u001b[27mi\u001b[27mt\u001b[27mh\u001b[27mu\u001b[27mb\u001b[27m.\u001b[27mc\u001b[27mo\u001b[27mm\u001b[27m:\u001b[27mt\u001b[27mr\u001b[27mi\u001b[27mb\u001b[27me\u001b[27ms\u001b[27ma\u001b[27mt\u001b[27m/\u001b[27mb\u001b[27ma\u001b[27mc\u001b[27mk\u001b[27me\u001b[27mn\u001b[27md\u001b[27m.\u001b[27mg\u001b[27mi\u001b[27mt"
+    ],
+    [
+      5.9e-05,
+      "\u001b[?1l\u001b>\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.001078,
+      "\u001b]2;git clone git@github.com:tribesat/backend.git\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.010969,
+      "Cloning into 'backend'...\r\n"
+    ],
+    [
+      0.715127,
+      "remote: Counting objects: 85, done.\u001b[K\r\nremote: Total 85 (delta 0), reused 0 (delta 0), pack-reused 85\u001b[K\r\n"
+    ],
+    [
+      0.013905,
+      "Receiving objects:   1% (1/85)   \r"
+    ],
+    [
+      3.9e-05,
+      "Receiving objects:   2% (2/85)   \rReceiving objects:   3% (3/85)   \r"
+    ],
+    [
+      2e-05,
+      "Receiving objects:   4% (4/85)   \r"
+    ],
+    [
+      0.000174,
+      "Receiving objects:   5% (5/85)   \rReceiving objects:   7% (6/85)   \rReceiving objects:   8% (7/85)   \r"
+    ],
+    [
+      2.8e-05,
+      "Receiving objects:   9% (8/85)   \rReceiving objects:  10% (9/85)   \r"
+    ],
+    [
+      6.2e-05,
+      "Receiving objects:  11% (10/85)   \rReceiving objects:  12% (11/85)   \r"
+    ],
+    [
+      0.00011,
+      "Receiving objects:  14% (12/85)   \rReceiving objects:  15% (13/85)   \rReceiving objects:  16% (14/85)   \r"
+    ],
+    [
+      2.4e-05,
+      "Receiving objects:  17% (15/85)   \rReceiving objects:  18% (16/85)   \r"
+    ],
+    [
+      0.000739,
+      "Receiving objects:  20% (17/85)   \r"
+    ],
+    [
+      3.3e-05,
+      "Receiving objects:  21% (18/85)   \rReceiving objects:  22% (19/85)   \r"
+    ],
+    [
+      0.000152,
+      "Receiving objects:  23% (20/85)   \rReceiving objects:  24% (21/85)   \rReceiving objects:  25% (22/85)   \rReceiving objects:  27% (23/85)   \rReceiving objects:  28% (24/85)   \r"
+    ],
+    [
+      0.000112,
+      "Receiving objects:  29% (25/85)   \r"
+    ],
+    [
+      2.4e-05,
+      "Receiving objects:  30% (26/85)   \r"
+    ],
+    [
+      2e-05,
+      "Receiving objects:  31% (27/85)   \rReceiving objects:  32% (28/85)   \r"
+    ],
+    [
+      1.9e-05,
+      "Receiving objects:  34% (29/85)   \r"
+    ],
+    [
+      2.6e-05,
+      "Receiving objects:  35% (30/85)   \r"
+    ],
+    [
+      1.9e-05,
+      "Receiving objects:  36% (31/85)   \r"
+    ],
+    [
+      1.6e-05,
+      "Receiving objects:  37% (32/85)   \r"
+    ],
+    [
+      5.4e-05,
+      "Receiving objects:  38% (33/85)   \rReceiving objects:  40% (34/85)   \r"
+    ],
+    [
+      5.5e-05,
+      "Receiving objects:  41% (35/85)   \rReceiving objects:  42% (36/85)   \rReceiving objects:  43% (37/85)   \rReceiving objects:  44% (38/85)   \r"
+    ],
+    [
+      2e-05,
+      "Receiving objects:  45% (39/85)   \r"
+    ],
+    [
+      1.8e-05,
+      "Receiving objects:  47% (40/85)   \rReceiving objects:  48% (41/85)   \r"
+    ],
+    [
+      2.5e-05,
+      "Receiving objects:  49% (42/85)   \r"
+    ],
+    [
+      1.9e-05,
+      "Receiving objects:  50% (43/85)   \r"
+    ],
+    [
+      2.3e-05,
+      "Receiving objects:  51% (44/85)   \rReceiving objects:  52% (45/85)   \r"
+    ],
+    [
+      1.9e-05,
+      "Receiving objects:  54% (46/85)   \r"
+    ],
+    [
+      1.8e-05,
+      "Receiving objects:  55% (47/85)   \rReceiving objects:  56% (48/85)   \r"
+    ],
+    [
+      1.7e-05,
+      "Receiving objects:  57% (49/85)   \r"
+    ],
+    [
+      3.1e-05,
+      "Receiving objects:  58% (50/85)   \rReceiving objects:  60% (51/85)   \r"
+    ],
+    [
+      1.8e-05,
+      "Receiving objects:  61% (52/85)   \r"
+    ],
+    [
+      0.000143,
+      "Receiving objects:  62% (53/85)   \rReceiving objects:  63% (54/85)   \rReceiving objects:  64% (55/85)   \rReceiving objects:  65% (56/85)   \rReceiving objects:  67% (57/85)   \rReceiving objects:  68% (58/85)   \rReceiving objects:  69% (59/85)   \rReceiving objects:  70% (60/85)   \r"
+    ],
+    [
+      3.1e-05,
+      "Receiving objects:  71% (61/85)   \rReceiving objects:  72% (62/85)   \rReceiving objects:  74% (63/85)   \r"
+    ],
+    [
+      2.1e-05,
+      "Receiving objects:  75% (64/85)   \rReceiving objects:  76% (65/85)   \r"
+    ],
+    [
+      0.000112,
+      "Receiving objects:  77% (66/85)   \rReceiving objects:  78% (67/85)   \rReceiving objects:  80% (68/85)   \rReceiving objects:  81% (69/85)   \rReceiving objects:  82% (70/85)   \rReceiving objects:  83% (71/85)   \rReceiving objects:  84% (72/85)   \rReceiving objects:  85% (73/85)   \r"
+    ],
+    [
+      2.1e-05,
+      "Receiving objects:  87% (74/85)   \rReceiving objects:  88% (75/85)   \rReceiving objects:  89% (76/85)   \r"
+    ],
+    [
+      4.6e-05,
+      "Receiving objects:  90% (77/85)   \rReceiving objects:  91% (78/85)   \rReceiving objects:  92% (79/85)   \r"
+    ],
+    [
+      2.1e-05,
+      "Receiving objects:  94% (80/85)   \rReceiving objects:  95% (81/85)   \rReceiving objects:  96% (82/85)   \r"
+    ],
+    [
+      0.000174,
+      "Receiving objects:  97% (83/85)   \rReceiving objects:  98% (84/85)   \rReceiving objects: 100% (85/85)   \r"
+    ],
+    [
+      2.9e-05,
+      "Receiving objects: 100% (85/85), 8.14 KiB | 0 bytes/s, done.\r\n"
+    ],
+    [
+      0.000391,
+      "Resolving deltas:   0% (0/34)   \r"
+    ],
+    [
+      0.000134,
+      "Resolving deltas:   2% (1/34)   \rResolving deltas:   5% (2/34)   \r"
+    ],
+    [
+      0.000128,
+      "Resolving deltas:  14% (5/34)   \r"
+    ],
+    [
+      0.000121,
+      "Resolving deltas:  23% (8/34)   \r"
+    ],
+    [
+      7.1e-05,
+      "Resolving deltas:  35% (12/34)   \r"
+    ],
+    [
+      6.4e-05,
+      "Resolving deltas:  38% (13/34)   \r"
+    ],
+    [
+      8.6e-05,
+      "Resolving deltas:  44% (15/34)   \r"
+    ],
+    [
+      0.000105,
+      "Resolving deltas:  55% (19/34)   \r"
+    ],
+    [
+      0.000105,
+      "Resolving deltas:  58% (20/34)   \rResolving deltas:  61% (21/34)   \r"
+    ],
+    [
+      2.6e-05,
+      "Resolving deltas:  67% (23/34)   \r"
+    ],
+    [
+      0.000173,
+      "Resolving deltas: 100% (34/34)   \r"
+    ],
+    [
+      8.8e-05,
+      "Resolving deltas: 100% (34/34), done.\r\n"
+    ],
+    [
+      0.052673,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                     \r \r"
+    ],
+    [
+      0.000169,
+      "\u001b]2;kelvin@kelvin-mac: /private/tmp\u0007"
+    ],
+    [
+      5.4e-05,
+      "\u001b]1;/private/tmp\u0007"
+    ],
+    [
+      0.022944,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mtmp\u001b[00m \u001b[K"
+    ],
+    [
+      4.4e-05,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.8e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      1.277451,
+      "c"
+    ],
+    [
+      0.068433,
+      "\bcd"
+    ],
+    [
+      0.062755,
+      " "
+    ],
+    [
+      0.153988,
+      "b"
+    ],
+    [
+      0.074265,
+      "a"
+    ],
+    [
+      0.093723,
+      "c"
+    ],
+    [
+      0.060462,
+      "k"
+    ],
+    [
+      0.234998,
+      "end\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.818841,
+      "\b\u001b[0m \b"
+    ],
+    [
+      7.5e-05,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      9.4e-05,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.000749,
+      "\u001b]2;cd backend\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.000273,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                     \r \r"
+    ],
+    [
+      0.000129,
+      "\u001b]2;kelvin@kelvin-mac: /private/tmp/backend\u0007"
+    ],
+    [
+      2.6e-05,
+      "\u001b]1;..e/tmp/backend\u0007"
+    ],
+    [
+      0.041889,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mbackend\u001b[00m \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m \u001b[K"
+    ],
+    [
+      3.7e-05,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      6.8e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      1.542546,
+      "v"
+    ],
+    [
+      0.10902,
+      "\bvi"
+    ],
+    [
+      0.074888,
+      "r"
+    ],
+    [
+      0.068061,
+      "t"
+    ],
+    [
+      0.072967,
+      "u"
+    ],
+    [
+      0.090287,
+      "a"
+    ],
+    [
+      0.133817,
+      "l"
+    ],
+    [
+      0.067753,
+      "e"
+    ],
+    [
+      0.585217,
+      "n"
+    ],
+    [
+      0.110099,
+      "v"
+    ],
+    [
+      1.235369,
+      " "
+    ],
+    [
+      0.100527,
+      "-"
+    ],
+    [
+      0.276905,
+      "p"
+    ],
+    [
+      1.064952,
+      " "
+    ],
+    [
+      0.507195,
+      "p"
+    ],
+    [
+      0.408649,
+      "t"
+    ],
+    [
+      0.318218,
+      "\b \b"
+    ],
+    [
+      0.21412,
+      "y"
+    ],
+    [
+      0.067947,
+      "t"
+    ],
+    [
+      0.09591,
+      "h"
+    ],
+    [
+      0.137086,
+      "o"
+    ],
+    [
+      0.075701,
+      "n"
+    ],
+    [
+      0.983945,
+      "3"
+    ],
+    [
+      0.108276,
+      "."
+    ],
+    [
+      0.193047,
+      "6"
+    ],
+    [
+      0.925795,
+      " "
+    ],
+    [
+      0.221448,
+      "."
+    ],
+    [
+      0.238904,
+      "p"
+    ],
+    [
+      0.066748,
+      "y"
+    ],
+    [
+      0.105083,
+      "e"
+    ],
+    [
+      0.116027,
+      "n"
+    ],
+    [
+      0.164987,
+      "v"
+    ],
+    [
+      0.985695,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      3.8e-05,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.000909,
+      "\u001b]2;virtualenv -p python3.6 .pyenv\u0007\u001b]1;virtualenv\u0007"
+    ],
+    [
+      0.108941,
+      "Running virtualenv with interpreter /usr/local/bin/python3.6\r\n"
+    ],
+    [
+      0.116747,
+      "Using base prefix '/usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6'\r\n"
+    ],
+    [
+      0.041749,
+      "New python executable in /private/tmp/backend/.pyenv/bin/python3.6\r\n"
+    ],
+    [
+      0.000535,
+      "Also creating executable in /private/tmp/backend/.pyenv/bin/python\r\n"
+    ],
+    [
+      0.099139,
+      "Installing setuptools, pip, wheel..."
+    ],
+    [
+      3.726357,
+      "done.\r\n"
+    ],
+    [
+      0.024789,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                     \r \r"
+    ],
+    [
+      0.000157,
+      "\u001b]2;kelvin@kelvin-mac: /private/tmp/backend\u0007\u001b]1;..e/tmp/backend\u0007"
+    ],
+    [
+      0.033677,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mbackend\u001b[00m \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m \u001b[K"
+    ],
+    [
+      4.8e-05,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      4.5e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      1.865161,
+      "s"
+    ],
+    [
+      0.087961,
+      "\bso"
+    ],
+    [
+      0.076109,
+      "u"
+    ],
+    [
+      0.035752,
+      "r"
+    ],
+    [
+      0.35506,
+      "c"
+    ],
+    [
+      0.016382,
+      "e"
+    ],
+    [
+      0.495487,
+      " "
+    ],
+    [
+      0.247019,
+      "."
+    ],
+    [
+      0.216961,
+      "p"
+    ],
+    [
+      0.061035,
+      "y"
+    ],
+    [
+      0.228772,
+      "env\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.379405,
+      "\b\u001b[0m/b"
+    ],
+    [
+      0.102838,
+      "i"
+    ],
+    [
+      0.071851,
+      "n"
+    ],
+    [
+      0.119116,
+      "\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.297104,
+      "\b\u001b[0m/a"
+    ],
+    [
+      0.144139,
+      "c"
+    ],
+    [
+      0.245208,
+      "tivate"
+    ],
+    [
+      1.29149,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      9.8e-05,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.00164,
+      "\u001b]2;source .pyenv/bin/activate\u0007\u001b]1;source\u0007"
+    ],
+    [
+      0.00703,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                     \r \r"
+    ],
+    [
+      3.1e-05,
+      "\u001b]2;kelvin@kelvin-mac: /private/tmp/backend\u0007\u001b]1;..e/tmp/backend\u0007"
+    ],
+    [
+      0.047345,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(.pyenv) \u001b[01;32m➜  \u001b[36mbackend\u001b[00m \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m \u001b[K"
+    ],
+    [
+      3.7e-05,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000103,
+      "\u001b[?2004h"
+    ],
+    [
+      1.69475,
+      "m"
+    ],
+    [
+      0.092099,
+      "\bma"
+    ],
+    [
+      0.080092,
+      "k"
+    ],
+    [
+      0.123898,
+      "e"
+    ],
+    [
+      0.905691,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      5.1e-05,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.000732,
+      "\u001b]2;make\u0007\u001b]1;make\u0007"
+    ],
+    [
+      0.01137,
+      "pip install -r requirements.txt\r\n"
+    ],
+    [
+      0.385145,
+      "Collecting Flask==0.12.2 (from -r requirements.txt (line 1))\r\n"
+    ],
+    [
+      0.220218,
+      "  Using cached Flask-0.12.2-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.048032,
+      "Collecting nose==1.3.7 (from -r requirements.txt (line 2))\r\n"
+    ],
+    [
+      0.075754,
+      "  Using cached nose-1.3.7-py3-none-any.whl\r\n"
+    ],
+    [
+      0.05426,
+      "Collecting gunicorn==19.7.1 (from -r requirements.txt (line 3))\r\n"
+    ],
+    [
+      0.104154,
+      "  Using cached gunicorn-19.7.1-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.052519,
+      "Collecting coverage==4.4.1 (from -r requirements.txt (line 4))\r\n"
+    ],
+    [
+      0.360434,
+      "  Using cached coverage-4.4.1-cp36-cp36m-macosx_10_10_x86_64.whl\r\n"
+    ],
+    [
+      0.052073,
+      "Collecting codecov==2.0.9 (from -r requirements.txt (line 5))\r\n"
+    ],
+    [
+      0.074152,
+      "  Using cached codecov-2.0.9-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.040056,
+      "Collecting pylint==1.7.2 (from -r requirements.txt (line 6))\r\n"
+    ],
+    [
+      0.090331,
+      "  Using cached pylint-1.7.2-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.348536,
+      "Collecting mypy==0.521 (from -r requirements.txt (line 7))\r\n"
+    ],
+    [
+      0.091364,
+      "  Using cached mypy-0.521-py3-none-any.whl\r\n"
+    ],
+    [
+      0.338453,
+      "Collecting yapf==0.16.3 (from -r requirements.txt (line 8))\r\n"
+    ],
+    [
+      0.08592,
+      "  Using cached yapf-0.16.3-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.062987,
+      "Collecting itsdangerous>=0.21 (from Flask==0.12.2->-r requirements.txt (line 1))\r\n"
+    ],
+    [
+      0.124042,
+      "Collecting click>=2.0 (from Flask==0.12.2->-r requirements.txt (line 1))\r\n"
+    ],
+    [
+      0.093739,
+      "  Using cached click-6.7-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.035517,
+      "Collecting Jinja2>=2.4 (from Flask==0.12.2->-r requirements.txt (line 1))\r\n"
+    ],
+    [
+      0.066813,
+      "  Using cached Jinja2-2.9.6-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.054766,
+      "Collecting Werkzeug>=0.7 (from Flask==0.12.2->-r requirements.txt (line 1))\r\n"
+    ],
+    [
+      0.081852,
+      "  Using cached Werkzeug-0.12.2-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.065408,
+      "Collecting requests>=2.7.9 (from codecov==2.0.9->-r requirements.txt (line 5))\r\n"
+    ],
+    [
+      0.125085,
+      "  Using cached requests-2.18.4-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.063011,
+      "Collecting six (from pylint==1.7.2->-r requirements.txt (line 6))\r\n"
+    ],
+    [
+      0.066595,
+      "  Using cached six-1.11.0-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.04119,
+      "Collecting astroid>=1.5.1 (from pylint==1.7.2->-r requirements.txt (line 6))\r\n"
+    ],
+    [
+      0.071595,
+      "  Using cached astroid-1.5.3-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.108391,
+      "Collecting isort>=4.2.5 (from pylint==1.7.2->-r requirements.txt (line 6))\r\n"
+    ],
+    [
+      0.092407,
+      "  Using cached isort-4.2.15-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.044982,
+      "Collecting mccabe (from pylint==1.7.2->-r requirements.txt (line 6))\r\n"
+    ],
+    [
+      0.061662,
+      "  Using cached mccabe-0.6.1-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.036911,
+      "Collecting typed-ast<1.1.0,>=1.0.4 (from mypy==0.521->-r requirements.txt (line 7))\r\n"
+    ],
+    [
+      0.096864,
+      "  Using cached typed_ast-1.0.4-cp36-cp36m-macosx_10_11_x86_64.whl\r\n"
+    ],
+    [
+      0.040146,
+      "Collecting MarkupSafe>=0.23 (from Jinja2>=2.4->Flask==0.12.2->-r requirements.txt (line 1))\r\n"
+    ],
+    [
+      0.101863,
+      "Collecting certifi>=2017.4.17 (from requests>=2.7.9->codecov==2.0.9->-r requirements.txt (line 5))\r\n"
+    ],
+    [
+      0.070424,
+      "  Using cached certifi-2017.7.27.1-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.044651,
+      "Collecting idna<2.7,>=2.5 (from requests>=2.7.9->codecov==2.0.9->-r requirements.txt (line 5))\r\n"
+    ],
+    [
+      0.060136,
+      "  Using cached idna-2.6-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.046108,
+      "Collecting urllib3<1.23,>=1.21.1 (from requests>=2.7.9->codecov==2.0.9->-r requirements.txt (line 5))\r\n"
+    ],
+    [
+      0.073381,
+      "  Using cached urllib3-1.22-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.081243,
+      "Collecting chardet<3.1.0,>=3.0.2 (from requests>=2.7.9->codecov==2.0.9->-r requirements.txt (line 5))\r\n"
+    ],
+    [
+      0.062055,
+      "  Using cached chardet-3.0.4-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.045025,
+      "Collecting wrapt (from astroid>=1.5.1->pylint==1.7.2->-r requirements.txt (line 6))\r\n"
+    ],
+    [
+      0.104143,
+      "Collecting lazy-object-proxy (from astroid>=1.5.1->pylint==1.7.2->-r requirements.txt (line 6))\r\n"
+    ],
+    [
+      0.110447,
+      "Installing collected packages: itsdangerous, click, MarkupSafe, Jinja2, Werkzeug, Flask, nose, gunicorn, coverage, certifi, idna, urllib3, chardet, requests, codecov, six, wrapt, lazy-object-proxy, astroid, isort, mccabe, pylint, typed-ast, mypy, yapf\r\n"
+    ],
+    [
+      4.138509,
+      "Successfully installed Flask-0.12.2 Jinja2-2.9.6 MarkupSafe-1.0 Werkzeug-0.12.2 astroid-1.5.3 certifi-2017.7.27.1 chardet-3.0.4 click-6.7 codecov-2.0.9 coverage-4.4.1 gunicorn-19.7.1 idna-2.6 isort-4.2.15 itsdangerous-0.24 lazy-object-proxy-1.3.1 mccabe-0.6.1 mypy-0.521 nose-1.3.7 pylint-1.7.2 requests-2.18.4 six-1.11.0 typed-ast-1.0.4 urllib3-1.22 wrapt-1.10.11 yapf-0.16.3\r\n"
+    ],
+    [
+      0.469087,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                     \r \r"
+    ],
+    [
+      0.000124,
+      "\u001b]2;kelvin@kelvin-mac: /private/tmp/backend\u0007\u001b]1;..e/tmp/backend\u0007"
+    ],
+    [
+      0.029959,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(.pyenv) \u001b[01;32m➜  \u001b[36mbackend\u001b[00m \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m \u001b[K"
+    ],
+    [
+      6.2e-05,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      9.9e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      2.005017,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ]
+}
